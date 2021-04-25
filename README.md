@@ -20,3 +20,4 @@
 
 - [局部放大图](https://blog.csdn.net/wulishinian/article/details/106668011?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.edu_weight)
 - [2维图](https://blog.csdn.net/baoqian1993/article/details/52116580)
+- 设置多个子图 [例](https://zhuanlan.zhihu.com/p/75276939)
