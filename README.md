@@ -1,4 +1,5 @@
 # Note 
+    Here are some pages I found when I was learning to do research in python
 
 # PyThon 3
 
